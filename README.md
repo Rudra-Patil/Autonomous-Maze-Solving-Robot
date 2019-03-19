@@ -1,2 +1,2 @@
 # Autonomous-Maze-Solving-Robot
-The robot when given a maze can find a way out using Arduino board and along with 3 ultrasonic sensors. It follows the right hand algorithm approach towards solving the task.
+The robot when given a maze can find a way out using Arduino board and along with 3 ultrasonic sensors. It follows the right hand algorithm approach towards solving the task.The robot is being controlled using 2 DC motors for movement as well as turning and a castor wheel for support.We used a LM293D Motor Driver for the motors and 2 Ultrasonic sensors in front for alignmnent and one on the right for obstacale detection. A 12V LI-PO battery was used.
